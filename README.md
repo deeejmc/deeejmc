@@ -1,24 +1,20 @@
-### Hey 👋
+### 🔭 I'm currently working on
 
-I'm Dom! A senior web developer based in one of the many beautiful countrysides of the UK.
+- [Winden](https://www.winden.co/) - A new banking solution for digital entrepreneurs
 
-**I love working with**
+###  ⏪ Most recent projects
+
+- [Reaktr](https://gitlab.com/open-source-developer/reaktr-framework) - Open source, modular, SaaS framework (Laravel)
+- [Scrap Local](https://scraplocal.io/) - Bespoke Lead Generation System (Laravel, Vue)
+- [Greenrspace](https://www.greenrspace.co.uk/) - Employee Engagement Platform (Zend, Vue)
+
+### 👩‍💻 Tech Stack
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </div>
-
-### 🔭 I'm currently working on
-
-- [Winden](https://www.winden.co/) - A new banking solution for digital entrepreneurs
-- [Reaktr Framework](https://gitlab.com/open-source-developer/reaktr-framework) - An open source, modular, SaaS framework built on top of Laravel
-
-###  ⏪ Most recent projects
-
-- [Scrap Local](https://https://scraplocal.io/) - A bespoke Lead generation platform for the scrap industry ♻
-- [Greenrspace](https://www.greenrspace.co.uk/) - A multi-tenant employee engagement platform promoting positive environmental behaviour change 🌍
 
 ### 📫 How to reach me
 
