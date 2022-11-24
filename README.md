@@ -22,8 +22,8 @@
   <a href="https://www.linkedin.com/in/deeejmc/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/domjomc">
-    <img src="https://img.shields.io/badge/domjomc-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://twitter.com/d3j98">
+    <img src="https://img.shields.io/badge/d3j98-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
 
