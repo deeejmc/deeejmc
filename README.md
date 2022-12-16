@@ -1,10 +1,11 @@
 ### 🔭 I'm currently working on
 
-- [Winden](https://www.winden.co/) - A new banking solution for digital entrepreneurs
+- [D3J Digital](https://d3j.digital/) - Web Development as a Subscription
 
 ###  ⏪ Most recent projects
 
 - [Reaktr](https://gitlab.com/open-source-developer/reaktr-framework) - Open source, modular, SaaS framework (Laravel)
+- [Winden](https://www.winden.co/) - A new banking solution for digital entrepreneurs (React)
 - [Scrap Local](https://scraplocal.io/) - Bespoke Lead Generation System (Laravel, Vue)
 - [Greenrspace](https://www.greenrspace.co.uk/) - Employee Engagement Platform (Zend, Vue)
 
